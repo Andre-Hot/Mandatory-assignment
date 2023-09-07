@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music App </title>
+</head>
+
+<body>
+    <header>
+        <h1>Music App</h1>
+    </header>
+    <main>
+        <section id="artist-grid" class="grid-container"></section>
+        <form id="form-create">
+            <h2>Create a new song</h2>
+            <input type="text" name="name" placeholder="Type name of desired song" required>
+            <input type="text" name="title" placeholder="Type title of song" required>
+            <input type="artist" name="artist" placeholder="Type music artist" required>
+            <input type="url" name="image" placeholder="Paste image url" required>
+            <button>Create song</button>  
+        </form>
+
+        <form id="form-update">
+            <h2>Update User</h2>
+            <input type="text" name="name" placeholder="Type name of desired song" required>
+            <input type="text" name="title" placeholder="Type your title" required>
+            <input type="artist" name="artist" placeholder="Type music artist" required>
+            <input type="url" name="image" placeholder="Paste image url" required>
+            <button>Update User</button>
+        </form>
+    </main>
+    <script type="module" src="app.js">
+    </script>
+</body>
+</html>

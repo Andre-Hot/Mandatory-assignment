@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Mozart",
+        "title": "sleepy little moon",
+        "artist": "name of artist",
+        "image": "image of the url"
+    },
+    {
+        "name": "michael jackson",
+        "title": "black and white",
+        "artist": "name of artist",
+        "image": "image of the url"
+    },
+    {
+        "name": "vivaldi",
+        "title": "Four seasons",
+        "artist": "name of artist",
+        "image": "image of the url"
+    }
+]

@@ -1,0 +1,2 @@
+
+Appen installeres ved at åbne projektet i vs code og derefter åbne en terminal i projektet hvori man taster "node app" for at kører projektet i localhost 3000, man vil derefter indtaste url'en i browseren for at se indholdet.
